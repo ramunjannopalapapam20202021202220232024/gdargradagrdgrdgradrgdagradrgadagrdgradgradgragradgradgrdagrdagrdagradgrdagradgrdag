@@ -12,7 +12,7 @@ proxies:
       mode: websocket
       skip-cert-verify: true
       tls: true
-      host: ip172-18-0-3-d6b1enq91nsg00dkgt6g-80.direct.labs.play-with-docker.com
+      host: ip172-18-0-16-d6b1oc469qi000cfcs1g-80.direct.labs.play-with-docker.com
       path: /ws
 
 proxy-groups: []
